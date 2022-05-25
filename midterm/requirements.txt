@@ -9,7 +9,7 @@ djangorestframework-jwt==1.11.0
 filelock==3.0.12
 Markdown==3.2.1
 pipenv==2018.11.26
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 six==1.14.0
 sqlparse==0.3.0
